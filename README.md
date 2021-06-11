@@ -26,23 +26,6 @@ I'm Russ from Indianapolis, and I work as a Software Engineer. I enjoy learning 
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />
 <img align="left" alt="Git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
 
-<br />
-<br />
-
-<!---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=russSherm)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats-russsherm.vercel.app/api?username=russSherm&show_icons=true)
--->
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-</details>
-
 [website]: https://codeSTACKr.com
 [linkedin]: www.linkedin.com/in/russSherm/
 [instagram]: https://www.instagram.com/russSherm/
