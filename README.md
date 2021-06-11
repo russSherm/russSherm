@@ -29,9 +29,11 @@ I'm Russ from Indianapolis, and I work as a Software Engineer. I enjoy learning 
 <br />
 <br />
 
+<!---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=russSherm)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats-russsherm.vercel.app/api?username=russSherm&show_icons=true)
+-->
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
