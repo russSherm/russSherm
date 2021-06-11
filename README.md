@@ -35,7 +35,7 @@ I'm Russ from Indianapolis, and I work as a Software Engineer. I enjoy learning 
 
 ### Spotify "Now Playing"
 
-[<img src="https://novatorem-russsherm.vercel.app/api/spotify-playing" alt="russSherm Spotify Now Playing" width="350" />](https://open.spotify.com/user/sherman213)
+[<img src="https://novatorem-jh0awta0h-russsherm.vercel.app/api/spotify-playing" alt="russSherm Spotify Now Playing" width="350" />](https://open.spotify.com/user/sherman213)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=russSherm)](https://github.com/anuraghazra/github-readme-stats)
