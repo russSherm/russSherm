@@ -1,5 +1,5 @@
 ### Russ Sherman
-I'm Russ from Indianapolis, and I work as a Software Engineer. I enjoy learning languages and frameworks like React and Flask, as well as work in MySQL.
+I'm Russ from Indianapolis, and I work as a Software Engineer. I enjoy learning new languages and frameworks like React and Flask, as well as working in MySQL.
 
 - 🔭 I’m currently working on building my portfolio
 - 🌱 I’m currently learning JavaScript and React
