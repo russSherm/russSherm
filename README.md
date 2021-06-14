@@ -27,5 +27,5 @@ I'm Russ from Indianapolis, and I work as a Software Engineer. I enjoy learning 
 <img align="left" alt="Git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
 
 [website]: https://google.com
-[linkedin]: www.linkedin.com/in/russSherm/
+[linkedin]: https://www.linkedin.com/in/russsherm/
 [instagram]: https://www.instagram.com/russSherm/
