@@ -10,7 +10,6 @@ I'm Russ from Indianapolis, and I work as a Software Engineer. I enjoy learning 
 
 [<img align="left" alt="google.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="russSherm | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="russSherm | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -28,4 +27,3 @@ I'm Russ from Indianapolis, and I work as a Software Engineer. I enjoy learning 
 
 [website]: https://google.com
 [linkedin]: https://www.linkedin.com/in/russsherm/
-[instagram]: https://www.instagram.com/russSherm/
