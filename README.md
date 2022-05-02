@@ -3,7 +3,7 @@ I'm Russ from Indianapolis, and I work as a Software Engineer. I enjoy learning 
 
 - 🔭 I’m currently working on building my portfolio
 - 🌱 I’m currently learning JavaScript and React
-- 🥅 2021 Goals: Challenge myself with more difficult projects
+- 🥅 2022 Goals: Challenge myself with more difficult projects
 - ⚡ Fun fact: I love to travel and enjoy exploring new foods and restaurants
 
 ### Connect with me:
